@@ -1,0 +1,20 @@
+{
+  "candidate": {
+    "angle_deg": 1.5,
+    "pair": [
+      "door1/leg_strap",
+      "door2/leg_strap"
+    ],
+    "opencascade_distance_mm": 1.3557028727734541,
+    "note": "Exact B-rep distance at ONE witness pose, not full-sweep exact minimum"
+  },
+  "selected": {
+    "angle_deg": 0.0,
+    "pair": [
+      "door0/board",
+      "fixed/bearing606_seat0_-7"
+    ],
+    "opencascade_distance_mm": 4.0,
+    "note": "Exact B-rep distance at ONE witness pose, not full-sweep exact minimum"
+  }
+}
