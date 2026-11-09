@@ -4,3 +4,4 @@ Pillow==13.0.0
 pytest==9.2.0
 cadquery==2.7.0
 shapely==2.1.2
+matplotlib==3.10.8

@@ -1,0 +1,1402 @@
+{
+  "modeled_motion": [
+    {
+      "name": "door0/panel",
+      "actor": 0,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door0/padding",
+      "actor": 0,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door0/doll",
+      "actor": 0,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door0/leg_strap",
+      "actor": 0,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door0/torso_strap",
+      "actor": 0,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door0/foot",
+      "actor": 0,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door0/lower_hub",
+      "actor": 0,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door0/lower_arm",
+      "actor": 0,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door0/upper_hub",
+      "actor": 0,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door0/upper_arm",
+      "actor": 0,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door0/lower_tab",
+      "actor": 0,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door0/upper_tab",
+      "actor": 0,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door0/gear40",
+      "actor": 0,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "fixed/shaft0",
+      "actor": -1,
+      "rate": 0,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "fixed/corner_tube0",
+      "actor": -1,
+      "rate": 0,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "fixed/lower_bearing0",
+      "actor": -1,
+      "rate": 0,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": true,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "fixed/upper_bearing0",
+      "actor": -1,
+      "rate": 0,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": true,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door1/panel",
+      "actor": 1,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door1/padding",
+      "actor": 1,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door1/doll",
+      "actor": 1,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door1/leg_strap",
+      "actor": 1,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door1/torso_strap",
+      "actor": 1,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door1/foot",
+      "actor": 1,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door1/lower_hub",
+      "actor": 1,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door1/lower_arm",
+      "actor": 1,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door1/upper_hub",
+      "actor": 1,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door1/upper_arm",
+      "actor": 1,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door1/lower_tab",
+      "actor": 1,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door1/upper_tab",
+      "actor": 1,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door1/gear40",
+      "actor": 1,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "fixed/shaft1",
+      "actor": -1,
+      "rate": 0,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "fixed/corner_tube1",
+      "actor": -1,
+      "rate": 0,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "fixed/lower_bearing1",
+      "actor": -1,
+      "rate": 0,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": true,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "fixed/upper_bearing1",
+      "actor": -1,
+      "rate": 0,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": true,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door2/panel",
+      "actor": 2,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door2/padding",
+      "actor": 2,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door2/doll",
+      "actor": 2,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door2/leg_strap",
+      "actor": 2,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door2/torso_strap",
+      "actor": 2,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door2/foot",
+      "actor": 2,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door2/lower_hub",
+      "actor": 2,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door2/lower_arm",
+      "actor": 2,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door2/upper_hub",
+      "actor": 2,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door2/upper_arm",
+      "actor": 2,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door2/lower_tab",
+      "actor": 2,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door2/upper_tab",
+      "actor": 2,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door2/gear40",
+      "actor": 2,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "fixed/shaft2",
+      "actor": -1,
+      "rate": 0,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "fixed/corner_tube2",
+      "actor": -1,
+      "rate": 0,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "fixed/lower_bearing2",
+      "actor": -1,
+      "rate": 0,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": true,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "fixed/upper_bearing2",
+      "actor": -1,
+      "rate": 0,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": true,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door3/panel",
+      "actor": 3,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door3/padding",
+      "actor": 3,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door3/doll",
+      "actor": 3,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door3/leg_strap",
+      "actor": 3,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door3/torso_strap",
+      "actor": 3,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door3/foot",
+      "actor": 3,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door3/lower_hub",
+      "actor": 3,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door3/lower_arm",
+      "actor": 3,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door3/upper_hub",
+      "actor": 3,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door3/upper_arm",
+      "actor": 3,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door3/lower_tab",
+      "actor": 3,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door3/upper_tab",
+      "actor": 3,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door3/gear40",
+      "actor": 3,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "fixed/shaft3",
+      "actor": -1,
+      "rate": 0,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "fixed/corner_tube3",
+      "actor": -1,
+      "rate": 0,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "fixed/lower_bearing3",
+      "actor": -1,
+      "rate": 0,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": true,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "fixed/upper_bearing3",
+      "actor": -1,
+      "rate": 0,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": true,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door4/panel",
+      "actor": 4,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door4/padding",
+      "actor": 4,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door4/doll",
+      "actor": 4,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door4/leg_strap",
+      "actor": 4,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door4/torso_strap",
+      "actor": 4,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door4/foot",
+      "actor": 4,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door4/lower_hub",
+      "actor": 4,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door4/lower_arm",
+      "actor": 4,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door4/upper_hub",
+      "actor": 4,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door4/upper_arm",
+      "actor": 4,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door4/lower_tab",
+      "actor": 4,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door4/upper_tab",
+      "actor": 4,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door4/gear40",
+      "actor": 4,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "fixed/shaft4",
+      "actor": -1,
+      "rate": 0,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "fixed/corner_tube4",
+      "actor": -1,
+      "rate": 0,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "fixed/lower_bearing4",
+      "actor": -1,
+      "rate": 0,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": true,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "fixed/upper_bearing4",
+      "actor": -1,
+      "rate": 0,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": true,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door5/panel",
+      "actor": 5,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door5/padding",
+      "actor": 5,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door5/doll",
+      "actor": 5,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door5/leg_strap",
+      "actor": 5,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door5/torso_strap",
+      "actor": 5,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door5/foot",
+      "actor": 5,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door5/lower_hub",
+      "actor": 5,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door5/lower_arm",
+      "actor": 5,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door5/upper_hub",
+      "actor": 5,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door5/upper_arm",
+      "actor": 5,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door5/lower_tab",
+      "actor": 5,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door5/upper_tab",
+      "actor": 5,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "door5/gear40",
+      "actor": 5,
+      "rate": -1,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "fixed/shaft5",
+      "actor": -1,
+      "rate": 0,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "fixed/corner_tube5",
+      "actor": -1,
+      "rate": 0,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "fixed/lower_bearing5",
+      "actor": -1,
+      "rate": 0,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": true,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "fixed/upper_bearing5",
+      "actor": -1,
+      "rate": 0,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": true,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "fixed/base",
+      "actor": -1,
+      "rate": 0,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "fixed/roof",
+      "actor": -1,
+      "rate": 0,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "fixed/column",
+      "actor": -1,
+      "rate": 0,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "drive/sun200",
+      "actor": 6,
+      "rate": 0.2,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "drive/output90",
+      "actor": 6,
+      "rate": 0.2,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "drive/lay30",
+      "actor": 7,
+      "rate": -0.6,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "drive/lay100",
+      "actor": 7,
+      "rate": -0.6,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "drive/input20",
+      "actor": 8,
+      "rate": 3,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "drive/knob_clutch",
+      "actor": 8,
+      "rate": 3,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": true,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "drive/detent_cam",
+      "actor": 6,
+      "rate": 0.2,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": true,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "drive/stop_lug",
+      "actor": 6,
+      "rate": 0.2,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": true,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "fixed/stop_closed",
+      "actor": -1,
+      "rate": 0,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": true,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "fixed/stop_display",
+      "actor": -1,
+      "rate": 0,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": true,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "fixed/ball_plunger",
+      "actor": -1,
+      "rate": 0,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": true,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "fixed/output_shaft",
+      "actor": -1,
+      "rate": 0,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "fixed/lay_shaft",
+      "actor": -1,
+      "rate": 0,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "fixed/input_shaft",
+      "actor": -1,
+      "rate": 0,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "fixed/support_plate1",
+      "actor": -1,
+      "rate": 0,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "fixed/support_plate2",
+      "actor": -1,
+      "rate": 0,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "fixed/support_plate3",
+      "actor": -1,
+      "rate": 0,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "fixed/output_low_bearing",
+      "actor": -1,
+      "rate": 0,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": true,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "fixed/output_high_bearing",
+      "actor": -1,
+      "rate": 0,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": true,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "fixed/lay_low_bearing",
+      "actor": -1,
+      "rate": 0,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": true,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "fixed/lay_high_bearing",
+      "actor": -1,
+      "rate": 0,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": true,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "fixed/input_low_bearing",
+      "actor": -1,
+      "rate": 0,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": true,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "fixed/input_high_bearing",
+      "actor": -1,
+      "rate": 0,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": true,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "fixed/roof_post0",
+      "actor": -1,
+      "rate": 0,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "fixed/roof_post1",
+      "actor": -1,
+      "rate": 0,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "fixed/roof_post2",
+      "actor": -1,
+      "rate": 0,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "fixed/roof_post3",
+      "actor": -1,
+      "rate": 0,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "fixed/roof_post4",
+      "actor": -1,
+      "rate": 0,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    },
+    {
+      "name": "fixed/roof_post5",
+      "actor": -1,
+      "rate": 0,
+      "geometry": "V0.3 proxy, not final manufactured part",
+      "incomplete_contacts_or_parts": false,
+      "envelope_layer": "D; incomplete details additionally reserved in C/E"
+    }
+  ],
+  "reserved_only": [
+    {
+      "name": "corner_lower0_unmodelled_mount",
+      "layer": "E",
+      "level": "CONDITIONAL",
+      "note": "Conceptual service/unfinished geometry reservation"
+    },
+    {
+      "name": "corner_upper0_unmodelled_mount",
+      "layer": "E",
+      "level": "CONDITIONAL",
+      "note": "Conceptual service/unfinished geometry reservation"
+    },
+    {
+      "name": "corner_lower1_unmodelled_mount",
+      "layer": "E",
+      "level": "CONDITIONAL",
+      "note": "Conceptual service/unfinished geometry reservation"
+    },
+    {
+      "name": "corner_upper1_unmodelled_mount",
+      "layer": "E",
+      "level": "CONDITIONAL",
+      "note": "Conceptual service/unfinished geometry reservation"
+    },
+    {
+      "name": "corner_lower2_unmodelled_mount",
+      "layer": "E",
+      "level": "CONDITIONAL",
+      "note": "Conceptual service/unfinished geometry reservation"
+    },
+    {
+      "name": "corner_upper2_unmodelled_mount",
+      "layer": "E",
+      "level": "CONDITIONAL",
+      "note": "Conceptual service/unfinished geometry reservation"
+    },
+    {
+      "name": "corner_lower3_unmodelled_mount",
+      "layer": "E",
+      "level": "CONDITIONAL",
+      "note": "Conceptual service/unfinished geometry reservation"
+    },
+    {
+      "name": "corner_upper3_unmodelled_mount",
+      "layer": "E",
+      "level": "CONDITIONAL",
+      "note": "Conceptual service/unfinished geometry reservation"
+    },
+    {
+      "name": "corner_lower4_unmodelled_mount",
+      "layer": "E",
+      "level": "CONDITIONAL",
+      "note": "Conceptual service/unfinished geometry reservation"
+    },
+    {
+      "name": "corner_upper4_unmodelled_mount",
+      "layer": "E",
+      "level": "CONDITIONAL",
+      "note": "Conceptual service/unfinished geometry reservation"
+    },
+    {
+      "name": "corner_lower5_unmodelled_mount",
+      "layer": "E",
+      "level": "CONDITIONAL",
+      "note": "Conceptual service/unfinished geometry reservation"
+    },
+    {
+      "name": "corner_upper5_unmodelled_mount",
+      "layer": "E",
+      "level": "CONDITIONAL",
+      "note": "Conceptual service/unfinished geometry reservation"
+    },
+    {
+      "name": "reserve/door0/hinge_fasteners",
+      "layer": "E",
+      "level": "CONDITIONAL",
+      "note": "Unmodelled fastening/joint; no decoration clearance claim"
+    },
+    {
+      "name": "reserve/door0/free_edge_joint",
+      "layer": "E",
+      "level": "CONDITIONAL",
+      "note": "Unmodelled fastening/joint; no decoration clearance claim"
+    },
+    {
+      "name": "reserve/door0/panel_split_seam",
+      "layer": "E",
+      "level": "CONDITIONAL",
+      "note": "Unmodelled fastening/joint; no decoration clearance claim"
+    },
+    {
+      "name": "reserve/door0/lower_rail_fixings",
+      "layer": "E",
+      "level": "CONDITIONAL",
+      "note": "Unmodelled fastening/joint; no decoration clearance claim"
+    },
+    {
+      "name": "reserve/door0/upper_rail_fixings",
+      "layer": "E",
+      "level": "CONDITIONAL",
+      "note": "Unmodelled fastening/joint; no decoration clearance claim"
+    },
+    {
+      "name": "reserve/door1/hinge_fasteners",
+      "layer": "E",
+      "level": "CONDITIONAL",
+      "note": "Unmodelled fastening/joint; no decoration clearance claim"
+    },
+    {
+      "name": "reserve/door1/free_edge_joint",
+      "layer": "E",
+      "level": "CONDITIONAL",
+      "note": "Unmodelled fastening/joint; no decoration clearance claim"
+    },
+    {
+      "name": "reserve/door1/panel_split_seam",
+      "layer": "E",
+      "level": "CONDITIONAL",
+      "note": "Unmodelled fastening/joint; no decoration clearance claim"
+    },
+    {
+      "name": "reserve/door1/lower_rail_fixings",
+      "layer": "E",
+      "level": "CONDITIONAL",
+      "note": "Unmodelled fastening/joint; no decoration clearance claim"
+    },
+    {
+      "name": "reserve/door1/upper_rail_fixings",
+      "layer": "E",
+      "level": "CONDITIONAL",
+      "note": "Unmodelled fastening/joint; no decoration clearance claim"
+    },
+    {
+      "name": "reserve/door2/hinge_fasteners",
+      "layer": "E",
+      "level": "CONDITIONAL",
+      "note": "Unmodelled fastening/joint; no decoration clearance claim"
+    },
+    {
+      "name": "reserve/door2/free_edge_joint",
+      "layer": "E",
+      "level": "CONDITIONAL",
+      "note": "Unmodelled fastening/joint; no decoration clearance claim"
+    },
+    {
+      "name": "reserve/door2/panel_split_seam",
+      "layer": "E",
+      "level": "CONDITIONAL",
+      "note": "Unmodelled fastening/joint; no decoration clearance claim"
+    },
+    {
+      "name": "reserve/door2/lower_rail_fixings",
+      "layer": "E",
+      "level": "CONDITIONAL",
+      "note": "Unmodelled fastening/joint; no decoration clearance claim"
+    },
+    {
+      "name": "reserve/door2/upper_rail_fixings",
+      "layer": "E",
+      "level": "CONDITIONAL",
+      "note": "Unmodelled fastening/joint; no decoration clearance claim"
+    },
+    {
+      "name": "reserve/door3/hinge_fasteners",
+      "layer": "E",
+      "level": "CONDITIONAL",
+      "note": "Unmodelled fastening/joint; no decoration clearance claim"
+    },
+    {
+      "name": "reserve/door3/free_edge_joint",
+      "layer": "E",
+      "level": "CONDITIONAL",
+      "note": "Unmodelled fastening/joint; no decoration clearance claim"
+    },
+    {
+      "name": "reserve/door3/panel_split_seam",
+      "layer": "E",
+      "level": "CONDITIONAL",
+      "note": "Unmodelled fastening/joint; no decoration clearance claim"
+    },
+    {
+      "name": "reserve/door3/lower_rail_fixings",
+      "layer": "E",
+      "level": "CONDITIONAL",
+      "note": "Unmodelled fastening/joint; no decoration clearance claim"
+    },
+    {
+      "name": "reserve/door3/upper_rail_fixings",
+      "layer": "E",
+      "level": "CONDITIONAL",
+      "note": "Unmodelled fastening/joint; no decoration clearance claim"
+    },
+    {
+      "name": "reserve/door4/hinge_fasteners",
+      "layer": "E",
+      "level": "CONDITIONAL",
+      "note": "Unmodelled fastening/joint; no decoration clearance claim"
+    },
+    {
+      "name": "reserve/door4/free_edge_joint",
+      "layer": "E",
+      "level": "CONDITIONAL",
+      "note": "Unmodelled fastening/joint; no decoration clearance claim"
+    },
+    {
+      "name": "reserve/door4/panel_split_seam",
+      "layer": "E",
+      "level": "CONDITIONAL",
+      "note": "Unmodelled fastening/joint; no decoration clearance claim"
+    },
+    {
+      "name": "reserve/door4/lower_rail_fixings",
+      "layer": "E",
+      "level": "CONDITIONAL",
+      "note": "Unmodelled fastening/joint; no decoration clearance claim"
+    },
+    {
+      "name": "reserve/door4/upper_rail_fixings",
+      "layer": "E",
+      "level": "CONDITIONAL",
+      "note": "Unmodelled fastening/joint; no decoration clearance claim"
+    },
+    {
+      "name": "reserve/door5/hinge_fasteners",
+      "layer": "E",
+      "level": "CONDITIONAL",
+      "note": "Unmodelled fastening/joint; no decoration clearance claim"
+    },
+    {
+      "name": "reserve/door5/free_edge_joint",
+      "layer": "E",
+      "level": "CONDITIONAL",
+      "note": "Unmodelled fastening/joint; no decoration clearance claim"
+    },
+    {
+      "name": "reserve/door5/panel_split_seam",
+      "layer": "E",
+      "level": "CONDITIONAL",
+      "note": "Unmodelled fastening/joint; no decoration clearance claim"
+    },
+    {
+      "name": "reserve/door5/lower_rail_fixings",
+      "layer": "E",
+      "level": "CONDITIONAL",
+      "note": "Unmodelled fastening/joint; no decoration clearance claim"
+    },
+    {
+      "name": "reserve/door5/upper_rail_fixings",
+      "layer": "E",
+      "level": "CONDITIONAL",
+      "note": "Unmodelled fastening/joint; no decoration clearance claim"
+    },
+    {
+      "name": "roof_unfinished_joints_and_clutch",
+      "layer": "C",
+      "level": "CONDITIONAL",
+      "note": "Conceptual service/unfinished geometry reservation"
+    },
+    {
+      "name": "gearbox_vertical_extraction",
+      "layer": "C",
+      "level": "CONDITIONAL",
+      "note": "Remove dome first; straight lift is a proposed route, not a proven disassembly sequence"
+    },
+    {
+      "name": "knob_hand_operating_space",
+      "layer": "C",
+      "level": "CONDITIONAL",
+      "note": "Hand radius75 and overhead reach are assumptions; no anthropometric certificate"
+    },
+    {
+      "name": "removable_dome_lift_path",
+      "layer": "C",
+      "level": "UNVERIFIED",
+      "note": "Encloses installed dome band to radius275/Z590 and its FULL220mm lift plus allowance. Attachment/shape not designed; remove before servicing."
+    },
+    {
+      "name": "base_fasteners_and_tools",
+      "layer": "C",
+      "level": "CONDITIONAL",
+      "note": "Includes base wrap radius250 plus40mm outward removal and allowance; joints/tools not finalized"
+    },
+    {
+      "name": "roof_fasteners_and_tool_approach",
+      "layer": "C",
+      "level": "CONDITIONAL",
+      "note": "Conceptual service/unfinished geometry reservation"
+    },
+    {
+      "name": "reserve/door0/clip_insert_flex_remove",
+      "layer": "C",
+      "level": "CONDITIONAL",
+      "note": "Candidate clip: 15 mm insertion/removal, +/-0.8 mm lateral flex; receiver missing; no PETG fatigue claim"
+    },
+    {
+      "name": "reserve/door1/clip_insert_flex_remove",
+      "layer": "C",
+      "level": "CONDITIONAL",
+      "note": "Candidate clip: 15 mm insertion/removal, +/-0.8 mm lateral flex; receiver missing; no PETG fatigue claim"
+    },
+    {
+      "name": "reserve/door2/clip_insert_flex_remove",
+      "layer": "C",
+      "level": "CONDITIONAL",
+      "note": "Candidate clip: 15 mm insertion/removal, +/-0.8 mm lateral flex; receiver missing; no PETG fatigue claim"
+    },
+    {
+      "name": "reserve/door3/clip_insert_flex_remove",
+      "layer": "C",
+      "level": "CONDITIONAL",
+      "note": "Candidate clip: 15 mm insertion/removal, +/-0.8 mm lateral flex; receiver missing; no PETG fatigue claim"
+    },
+    {
+      "name": "reserve/door4/clip_insert_flex_remove",
+      "layer": "C",
+      "level": "CONDITIONAL",
+      "note": "Candidate clip: 15 mm insertion/removal, +/-0.8 mm lateral flex; receiver missing; no PETG fatigue claim"
+    },
+    {
+      "name": "reserve/door5/clip_insert_flex_remove",
+      "layer": "C",
+      "level": "CONDITIONAL",
+      "note": "Candidate clip: 15 mm insertion/removal, +/-0.8 mm lateral flex; receiver missing; no PETG fatigue claim"
+    }
+  ]
+}

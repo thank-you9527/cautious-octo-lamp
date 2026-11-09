@@ -3,3 +3,9 @@ outputs/*.step binary
 outputs/*.glb binary
 outputs/v03/*.step binary
 outputs/v03/*.glb binary
+outputs/v04/**/*.step binary
+outputs/v04/**/*.glb binary
+outputs/v04/*.step binary
+outputs/v04/*.glb binary
+outputs/v04/*.svg binary
+outputs/v04/*.csv text eol=lf

@@ -1,0 +1,80 @@
+[
+  {
+    "column": 0,
+    "z_range_mm": [
+      30,
+      270
+    ],
+    "maximum_ideal_circular_radial_thickness_mm": 0.07406533892404887,
+    "limiting_body": "door1/panel",
+    "geometric_level": "VERIFIED",
+    "assembled_cover_level": "CONDITIONAL",
+    "practical_PETG_cover_verified": false,
+    "note": "All-angle circular clearance only. Mounts, tube fit, seams absent; thickness below practical 0.4mm feature target is NOT a printable cover."
+  },
+  {
+    "column": 1,
+    "z_range_mm": [
+      30,
+      270
+    ],
+    "maximum_ideal_circular_radial_thickness_mm": 0.07406533892402045,
+    "limiting_body": "door2/panel",
+    "geometric_level": "VERIFIED",
+    "assembled_cover_level": "CONDITIONAL",
+    "practical_PETG_cover_verified": false,
+    "note": "All-angle circular clearance only. Mounts, tube fit, seams absent; thickness below practical 0.4mm feature target is NOT a printable cover."
+  },
+  {
+    "column": 2,
+    "z_range_mm": [
+      30,
+      270
+    ],
+    "maximum_ideal_circular_radial_thickness_mm": 0.07406533892402045,
+    "limiting_body": "door1/panel",
+    "geometric_level": "VERIFIED",
+    "assembled_cover_level": "CONDITIONAL",
+    "practical_PETG_cover_verified": false,
+    "note": "All-angle circular clearance only. Mounts, tube fit, seams absent; thickness below practical 0.4mm feature target is NOT a printable cover."
+  },
+  {
+    "column": 3,
+    "z_range_mm": [
+      30,
+      270
+    ],
+    "maximum_ideal_circular_radial_thickness_mm": 0.07406533892399203,
+    "limiting_body": "door4/panel",
+    "geometric_level": "VERIFIED",
+    "assembled_cover_level": "CONDITIONAL",
+    "practical_PETG_cover_verified": false,
+    "note": "All-angle circular clearance only. Mounts, tube fit, seams absent; thickness below practical 0.4mm feature target is NOT a printable cover."
+  },
+  {
+    "column": 4,
+    "z_range_mm": [
+      30,
+      270
+    ],
+    "maximum_ideal_circular_radial_thickness_mm": 0.07406533892399203,
+    "limiting_body": "door3/panel",
+    "geometric_level": "VERIFIED",
+    "assembled_cover_level": "CONDITIONAL",
+    "practical_PETG_cover_verified": false,
+    "note": "All-angle circular clearance only. Mounts, tube fit, seams absent; thickness below practical 0.4mm feature target is NOT a printable cover."
+  },
+  {
+    "column": 5,
+    "z_range_mm": [
+      30,
+      270
+    ],
+    "maximum_ideal_circular_radial_thickness_mm": 0.07406533892404887,
+    "limiting_body": "door0/panel",
+    "geometric_level": "VERIFIED",
+    "assembled_cover_level": "CONDITIONAL",
+    "practical_PETG_cover_verified": false,
+    "note": "All-angle circular clearance only. Mounts, tube fit, seams absent; thickness below practical 0.4mm feature target is NOT a printable cover."
+  }
+]

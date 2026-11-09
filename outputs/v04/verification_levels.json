@@ -1,0 +1,12 @@
+{
+  "A_fixed": "VERIFIED",
+  "B_moving": "VERIFIED",
+  "C_aggregate": "UNVERIFIED",
+  "D": "VERIFIED",
+  "E_aggregate": "UNVERIFIED",
+  "roof_dome": "CONDITIONAL",
+  "base_wrap": "CONDITIONAL",
+  "column_wrap": "CONDITIONAL",
+  "clip_candidate": "CONDITIONAL",
+  "note": "A/B/D levels refer only to declared continuous geometry and error bounds. C/E source-level distinctions are in report.reservations; aggregate does not upgrade any concept. No strength or manufacture release."
+}

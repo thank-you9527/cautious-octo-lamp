@@ -1,0 +1,13 @@
+{
+  "angular_step_deg": 1.0,
+  "local_step_deg": 0.5,
+  "clearance_mm": 1.0,
+  "decoration_error_mm": 0.2,
+  "cell_mm": 10.0,
+  "thickness_cap_mm": 40.0,
+  "thickness_quantum_mm": 0.25,
+  "face_cell_x_mm": 10.0,
+  "face_cell_z_mm": 15.0,
+  "roi_min": [-400, -400, -80],
+  "roi_max": [400, 400, 850]
+}
