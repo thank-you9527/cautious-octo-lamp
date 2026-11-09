@@ -1,0 +1,64 @@
+{
+  "bed_xy_mm": [
+    180,
+    180
+  ],
+  "status": "split concept only; joints and inserts not load-verified",
+  "parts": [
+    {
+      "name": "panels",
+      "count": 12,
+      "bbox_mm": [
+        167.0,
+        6,
+        147.5
+      ]
+    },
+    {
+      "name": "five_plate_inner_sectors",
+      "count": 60,
+      "bbox_mm": [
+        110.0,
+        56.940189922554566,
+        12
+      ]
+    },
+    {
+      "name": "five_plate_outer_sectors",
+      "count": 60,
+      "bbox_mm": [
+        113.7481591082025,
+        113.88037984510913,
+        12
+      ]
+    },
+    {
+      "name": "sun200_sectors",
+      "count": 8,
+      "bbox_mm": [
+        151.5,
+        115.9530800066222,
+        12
+      ]
+    },
+    {
+      "name": "door40_gears",
+      "count": 6,
+      "bbox_mm": [
+        63,
+        63,
+        12
+      ]
+    },
+    {
+      "name": "reducer_gears",
+      "count": 4,
+      "max_bbox_mm": [
+        153,
+        153,
+        12
+      ]
+    }
+  ],
+  "note": "180mm bed: each of five plates has 12 angular sectors x 2 radial pieces. At 256mm bed six sectors/plate suffice. Counts exclude joints, hubs, rails, fasteners, dome; final CAD counts pending."
+}

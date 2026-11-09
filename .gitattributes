@@ -1,3 +1,5 @@
 # Generated CAD exchange files are reviewed in CAD tools, not as text diffs.
 outputs/*.step binary
 outputs/*.glb binary
+outputs/v03/*.step binary
+outputs/v03/*.glb binary
